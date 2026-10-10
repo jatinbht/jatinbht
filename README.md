@@ -1,13 +1,5 @@
-## 🚀 Featured Projects
+## ⭐ Featured projects
 
-### React Job Applicants
+💼 [**job-applicants**](https://github.com/jatinbht/eSparkBiz/tree/main/react/job-applicants) (<!--stars:eSparkBiz-->0<!--/stars--> stars) - A React application for managing job applicants
 
-A React project for managing job applicants.
-
-[View Job Applicants Project](https://github.com/jatinbht/eSparkBiz/tree/main/react/job-applicants)
-
-### Django Projects
-
-A collection of my Django projects and experiments.
-
-[View Django Projects](https://github.com/jatinbht/django_projects)
+🐍 [**django_projects**](https://github.com/jatinbht/django_projects) (<!--stars:django_projects-->0<!--/stars--> stars) - A collection of Django projects and experiments
