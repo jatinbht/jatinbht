@@ -1,7 +1,3 @@
-# Hi, I'm Jatin Bhatia 👋
-
-Welcome to my GitHub profile!
-
 ## 🚀 Featured Projects
 
 ### React Job Applicants
